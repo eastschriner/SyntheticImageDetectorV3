@@ -9,9 +9,9 @@ This tool is a primarily a demonstration of what CNNs are capable of; it is not 
 
 There are 2 .zip files available for download:
 
-Synthetic_Image_Detector_Full.zip contains ALL files, including the 20,000 files used for training the model. Select this option if you wish to train the model or access the training files. 
+Synthetic_Image_Detector_FULL.zip contains ALL files, including the 20,000 files used for training the model. Select this option if you wish to train the model or access the training files. 
 
-Synthetic_Image_Detector_Light.zip omits the training files, resulting in reduced filesize and a much quicker download. This version doesn't allow training and will always load from the provided modelstate file. 
+Synthetic_Image_Detector_LIGHT.zip omits the training files, resulting in reduced filesize and a much quicker download. This version doesn't allow training and will always load from the provided modelstate file. 
 
 ---
 
